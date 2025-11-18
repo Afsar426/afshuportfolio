@@ -1,9 +1,11 @@
 {
+  "homepage": "https://afsar426.github.io/afshuportfolio",
   "$schema": "https://json.schemastore.org/package.json",
   "name": "ashthetic-portfolio-final",
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
